@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\00b16c4cc68ecdf0f07677b0158c774368735b93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ca911e0d4b4ecb94f625757d9fc4e1da677f8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\b3fba4f840be893680075521ca82e295839c79ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6a71f4d9de7e42a878d357df71fe3e679421d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\7ab10eb392e88d9844b94549a04425950da8a315\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3232df815e8dfaf6d61f2a23e3dcc38f6845d57c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\PicFrame (1)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_be1f13901f6eeb3b2f67381f2dc1f07b87d461f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_2af0e781810fe15735534e93297777e28f8addba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\a74fc6961bf606468cdadb34e92de02d56f5a6ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa3392b5517285bc3e6ebb69235dcf6cf4143725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\163ba62c636bf85227eb8528eb53dd42fdb03f30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69d5aea3c2a6a381e58a2e4585a4d9834376d8ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\d45f5071248160177db3f8a1b839f9a1a3566446\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fed675a14ac28eb1b0ca3f9682eab704522f5393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\ac6175761a18e66b3cbfffbea4aca05b64faca97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1ed8314487c39edf4ad40eb1bc592edde1b0ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\64dda238162add2e19e9ce8da6d2f44432575118\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04d6a6cfe364137dfbce570ff8117c236edeb557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\621534c42bca58d15f02bc6d756ff907c1964c22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8052f3779fea8d2abef5f71206e86e3a2fedbe8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_15f11cfa6779a6d530a2bb8ab738ec61f4a198d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\16f5d337475125748f4fb5bd1616f46bc332a71d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22e96bce769403be1b1ea898a2e30bcc0534e5bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\PicFrame (1)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b48b7fbcca4f03d174fdce5316c7ed1ada8e9908">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0b68853280a9bce8d93507864800d29fde3972f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_249bc69d0829e1e7e98b8c50c0a0a23ebe07e389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\5f34a451f3b6d569b8cbba4473f224feb81337c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4de8d111155234b7904e004eb4cd1611f9ef9732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\241989b35b61ebfc2f57d43c0d48a65435eaa41a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3edc0b1eb38547975ae555bd3a684e20d2e32b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\975b4e91854144035f98db0f0099e8725bfc277b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daaf019ce593bbf5576634d3bae0b57a8e97dd9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suleman\.android\build-cache\6db12bcc07756d63dff4a0822fdb2cfdc35a789b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="I:\PicFrame (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f58615980188b5d6f7fe0d4060c30d343f9dedbd\classes.dex" />
+    </item>
+
+</items>
